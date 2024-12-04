@@ -16,9 +16,9 @@ This is the only part of the code I worked on, the rest was provided initially a
 # Instructions(for macOS):
 Once all the files are dowloaded, open the terminal and compile all the .java files. 
 
-Run the Nearest Neighbor Heuristic on the points in the tsp1000.txt file by using the following command:java NearestInsertion < tsp1000.txt (or for some other text file provided).
+Run the Nearest Neighbor Heuristic on the points in the tsp1000.txt file by using the following command:java NearestInsertion < tsp1000.txt (or other text file provided).
 
-Run the Smallest Insertion Heuristic on the points in the tsp1000.txt file by using the following command:java SmallestInsertion < tsp1000.txt (or some other text file provided). 
+Run the Smallest Insertion Heuristic on the points in the tsp1000.txt file by using the following command:java SmallestInsertion < tsp1000.txt (or other text file provided). 
 
 These will display the graphical tour and print the tour's length and the number of points.
 
